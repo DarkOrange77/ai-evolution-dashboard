@@ -1,3 +1,4 @@
+import React from 'react';
 import { COLOR_MAP } from '../utils/globeMarkers';
 
 const ERAS = ['Industry 1.0', 'Industry 2.0', 'Industry 3.0', 'Industry 4.0'];

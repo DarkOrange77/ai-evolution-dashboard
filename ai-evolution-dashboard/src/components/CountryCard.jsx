@@ -1,3 +1,4 @@
+import React from 'react';
 import { COLOR_MAP, NARRATIVE_LABELS } from '../utils/globeMarkers';
 
 const IMPACT_BAR = {
