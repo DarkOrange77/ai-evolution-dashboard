@@ -2,8 +2,10 @@ services:
   - type: web
     name: ai-evolution-dashboard
     runtime: node
-    buildCommand: npm install && npm run build
-    startCommand: npx serve dist
+    buildCommand: npm install --legacy-peer-deps && npm run build
+    startCommand: npx serve dist -s
     envVars:
       - key: NODE_VERSION
-        value: 18
+        value: 18.20.0
+      - key: NPM_FLAGS
+        value: --legacy-peer-deps
