@@ -1,5 +1,7 @@
 import { useRef, useCallback, useEffect, useState, memo } from 'react';
 import Globe from 'react-globe.gl';
+import React from 'react';
+
 
 // Stable label — outside component, never re-creates
 const getPointLabel = d => `

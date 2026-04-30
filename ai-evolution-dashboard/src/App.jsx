@@ -5,6 +5,8 @@ import TimelineSlider from './components/TimelineSlider';
 import CountryCard from './components/CountryCard';
 import ComparisonPanel from './components/ComparisonPanel';
 import EraLegend from './components/EraLegend';
+import React from 'react';
+
 
 export default function App() {
   const [selectedEra, setSelectedEra]         = useState('Industry 3.0');

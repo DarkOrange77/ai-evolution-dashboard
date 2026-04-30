@@ -1,5 +1,7 @@
 import { useState, useEffect } from 'react';
 import { ERA_COLORS } from '../utils/globeMarkers';
+import React from 'react';
+
 
 const ERAS = ['Industry 1.0', 'Industry 2.0', 'Industry 3.0', 'Industry 4.0'];
 const ERA_YEARS = {
