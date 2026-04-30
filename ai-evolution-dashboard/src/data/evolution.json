@@ -1,0 +1,1631 @@
+[
+  {
+    "country": "USA",
+    "code": "US",
+    "coordinates": [37.09, -95.71],
+    "layer": 1,
+    "narrative_weight": "pioneer_arc",
+    "description": "The dominant force across all AI phases — from theoretical roots to the LLM era.",
+    "eras": [
+      {
+        "era": "Industry 1.0",
+        "year_range": "1760–1840",
+        "ai_stage": "Pre-AI / Mechanical Thought",
+        "key_events": [
+          "Charles Babbage's Difference Engine concept influences American engineers",
+          "Early telegraph networks lay communication groundwork"
+        ],
+        "impact_level": "Low",
+        "impact_score": 1
+      },
+      {
+        "era": "Industry 2.0",
+        "year_range": "1870–1940",
+        "ai_stage": "Logic & Boolean Foundations",
+        "key_events": [
+          "Boolean algebra adopted in electrical engineering",
+          "Bell Labs founded (1925) — future AI research hub",
+          "Vannevar Bush builds analog computer (1930)"
+        ],
+        "impact_level": "Medium",
+        "impact_score": 3
+      },
+      {
+        "era": "Industry 3.0",
+        "year_range": "1950–1990",
+        "ai_stage": "AI Born — Dartmouth to Expert Systems",
+        "key_events": [
+          "Dartmouth Conference 1956 — AI officially named",
+          "LISP programming language created (1958)",
+          "ARPANET (1969) — precursor to internet",
+          "Expert systems peak in industry (1980s)"
+        ],
+        "impact_level": "Very High",
+        "impact_score": 5
+      },
+      {
+        "era": "Industry 4.0",
+        "year_range": "2000–present",
+        "ai_stage": "Deep Learning + LLM Era",
+        "key_events": [
+          "ImageNet breakthrough — deep learning validated (2012)",
+          "OpenAI founded (2015)",
+          "GPT-3, GPT-4, Claude, Gemini released (2020–2024)",
+          "AI investment surpasses $100B annually"
+        ],
+        "impact_level": "Extreme",
+        "impact_score": 5
+      }
+    ]
+  },
+  {
+    "country": "United Kingdom",
+    "code": "GB",
+    "coordinates": [55.37, -3.43],
+    "layer": 1,
+    "narrative_weight": "pioneer_arc",
+    "description": "Where the story begins — birthplace of industrialization and the theoretical father of AI.",
+    "eras": [
+      {
+        "era": "Industry 1.0",
+        "year_range": "1760–1840",
+        "ai_stage": "Mechanical Revolution — Computation Imagined",
+        "key_events": [
+          "Steam engine by James Watt (1769) — Industry 1.0 ignited",
+          "Jacquard loom with punch cards — first programmable machine (1804)",
+          "Charles Babbage designs Difference Engine (1822)"
+        ],
+        "impact_level": "Extreme",
+        "impact_score": 5
+      },
+      {
+        "era": "Industry 2.0",
+        "year_range": "1870–1940",
+        "ai_stage": "Formal Logic & Computing Theory",
+        "key_events": [
+          "George Boole publishes Laws of Thought (1854)",
+          "Electrical mass production expands",
+          "Early tabulation machines deployed in census"
+        ],
+        "impact_level": "High",
+        "impact_score": 4
+      },
+      {
+        "era": "Industry 3.0",
+        "year_range": "1950–1990",
+        "ai_stage": "Turing — The Birth of AI Theory",
+        "key_events": [
+          "Alan Turing publishes 'Computing Machinery and Intelligence' (1950)",
+          "Turing Test proposed — defining machine intelligence",
+          "GCHQ applies early computing to cryptography"
+        ],
+        "impact_level": "Very High",
+        "impact_score": 5
+      },
+      {
+        "era": "Industry 4.0",
+        "year_range": "2000–present",
+        "ai_stage": "DeepMind & AI Safety Leadership",
+        "key_events": [
+          "DeepMind founded in London (2010)",
+          "AlphaGo defeats world champion (2016)",
+          "AlphaFold solves protein folding (2020)",
+          "UK AI Safety Institute established (2023)"
+        ],
+        "impact_level": "Very High",
+        "impact_score": 4
+      }
+    ]
+  },
+  {
+    "country": "Germany",
+    "code": "DE",
+    "coordinates": [51.16, 10.45],
+    "layer": 1,
+    "narrative_weight": "scale_arc",
+    "description": "Industrial engineering mastery — from mechanical precision to Industrie 4.0 policy leadership.",
+    "eras": [
+      {
+        "era": "Industry 1.0",
+        "year_range": "1760–1840",
+        "ai_stage": "Engineering Foundations",
+        "key_events": [
+          "German states adopt mechanized textile production",
+          "Precision engineering culture established in Prussia"
+        ],
+        "impact_level": "Medium",
+        "impact_score": 2
+      },
+      {
+        "era": "Industry 2.0",
+        "year_range": "1870–1940",
+        "ai_stage": "Electrical & Chemical Industry Dominance",
+        "key_events": [
+          "Siemens & Halske lead electrical engineering globally",
+          "BASF, Bayer founded — chemical-industrial complex",
+          "Konrad Zuse builds Z1 — first programmable computer (1938)"
+        ],
+        "impact_level": "Very High",
+        "impact_score": 5
+      },
+      {
+        "era": "Industry 3.0",
+        "year_range": "1950–1990",
+        "ai_stage": "Automation & Robotics in Manufacturing",
+        "key_events": [
+          "Volkswagen adopts robotic assembly lines",
+          "German universities build strong CS departments",
+          "Fraunhofer Society applies AI to industrial problems"
+        ],
+        "impact_level": "High",
+        "impact_score": 4
+      },
+      {
+        "era": "Industry 4.0",
+        "year_range": "2000–present",
+        "ai_stage": "Industrie 4.0 — AI + Manufacturing",
+        "key_events": [
+          "Germany coins 'Industrie 4.0' term (2011)",
+          "BMW, Siemens deploy factory AI at scale",
+          "EU AI Act co-led by German policy framework",
+          "SAP integrates AI across enterprise systems"
+        ],
+        "impact_level": "Very High",
+        "impact_score": 4
+      }
+    ]
+  },
+  {
+    "country": "Japan",
+    "code": "JP",
+    "coordinates": [36.20, 138.25],
+    "layer": 1,
+    "narrative_weight": "cautionary_arc",
+    "description": "The AI Winter cautionary tale — robotics leader who bet big on symbolic AI and lost, then rebuilt.",
+    "eras": [
+      {
+        "era": "Industry 1.0",
+        "year_range": "1760–1840",
+        "ai_stage": "Pre-Industrial Isolation",
+        "key_events": [
+          "Edo period Japan largely isolated from Western industrialization",
+          "Karakuri automata — mechanical dolls show early engineering curiosity"
+        ],
+        "impact_level": "Low",
+        "impact_score": 1
+      },
+      {
+        "era": "Industry 2.0",
+        "year_range": "1870–1940",
+        "ai_stage": "Rapid Meiji Modernization",
+        "key_events": [
+          "Meiji Restoration (1868) — Japan industrializes in 30 years",
+          "Electrical and steel industries built at speed",
+          "First Japanese universities adopt Western engineering"
+        ],
+        "impact_level": "High",
+        "impact_score": 3
+      },
+      {
+        "era": "Industry 3.0",
+        "year_range": "1950–1990",
+        "ai_stage": "Robotics Leader + AI Winter Trigger",
+        "key_events": [
+          "FANUC and Honda pioneer industrial robotics",
+          "Fifth Generation Computer Project launched (1982) — $500M bet on symbolic AI",
+          "Project fails by 1992 — contributes to global AI Winter",
+          "Toyota Production System becomes world model"
+        ],
+        "impact_level": "Very High",
+        "impact_score": 4
+      },
+      {
+        "era": "Industry 4.0",
+        "year_range": "2000–present",
+        "ai_stage": "Robotics Renaissance + AI Reentry",
+        "key_events": [
+          "SoftBank acquires ARM, invests $100B Vision Fund in AI",
+          "SoftBank–OpenAI joint venture SB OpenAI Japan formed (2024)",
+          "Japan National AI Strategy launched (2017)",
+          "Toyota Research Institute focuses on autonomous vehicles"
+        ],
+        "impact_level": "High",
+        "impact_score": 3
+      }
+    ]
+  },
+  {
+    "country": "China",
+    "code": "CN",
+    "coordinates": [35.86, 104.19],
+    "layer": 1,
+    "narrative_weight": "leapfrog_arc",
+    "description": "The most dramatic data curve — skipped industrial phases, state-driven AI dominance by 2030.",
+    "eras": [
+      {
+        "era": "Industry 1.0",
+        "year_range": "1760–1840",
+        "ai_stage": "Pre-Industrial Agricultural Economy",
+        "key_events": [
+          "Qing Dynasty largely agrarian — misses Western industrialization",
+          "First Opium War (1839) begins century of external pressure"
+        ],
+        "impact_level": "Very Low",
+        "impact_score": 1
+      },
+      {
+        "era": "Industry 2.0",
+        "year_range": "1870–1940",
+        "ai_stage": "Fragmented Industrialization",
+        "key_events": [
+          "Limited industrial development under warlord era",
+          "Some foreign-owned factories in Shanghai, Canton",
+          "Republic of China attempts Western-style modernization"
+        ],
+        "impact_level": "Low",
+        "impact_score": 1
+      },
+      {
+        "era": "Industry 3.0",
+        "year_range": "1950–1990",
+        "ai_stage": "State Computing — Catching Up",
+        "key_events": [
+          "PRC founds Chinese Academy of Sciences computing division",
+          "Cultural Revolution disrupts scientific progress (1966–76)",
+          "Deng Xiaoping opens economy — science prioritized (1978)",
+          "First Chinese universities adopt computer science"
+        ],
+        "impact_level": "Medium",
+        "impact_score": 2
+      },
+      {
+        "era": "Industry 4.0",
+        "year_range": "2000–present",
+        "ai_stage": "State-Driven AI Superpower",
+        "key_events": [
+          "Baidu, Alibaba, Tencent (BAT) build AI at massive scale",
+          "China AI Development Plan — target #1 globally by 2030 (2017)",
+          "AI research output matches combined US+UK+EU (2024)",
+          "DeepSeek R1 shocks global AI community (2025)"
+        ],
+        "impact_level": "Extreme",
+        "impact_score": 5
+      }
+    ]
+  },
+  {
+    "country": "India",
+    "code": "IN",
+    "coordinates": [20.59, 78.96],
+    "layer": 2,
+    "narrative_weight": "leapfrog_arc",
+    "description": "The emerging giant — IT services backbone of Industry 3.0, now pivoting to AI-first at national scale.",
+    "eras": [
+      {
+        "era": "Industry 1.0",
+        "year_range": "1760–1840",
+        "ai_stage": "Colonial Industrial Extraction",
+        "key_events": [
+          "British East India Company deindustrializes Indian textiles",
+          "Raw material supplier role imposed by colonial structure"
+        ],
+        "impact_level": "Very Low",
+        "impact_score": 1
+      },
+      {
+        "era": "Industry 2.0",
+        "year_range": "1870–1940",
+        "ai_stage": "Limited Colonial Industrialization",
+        "key_events": [
+          "Railways built primarily for British resource extraction",
+          "Tata Steel founded (1907) — first indigenous heavy industry",
+          "Indian National Congress pushes for industrial self-reliance"
+        ],
+        "impact_level": "Low",
+        "impact_score": 1
+      },
+      {
+        "era": "Industry 3.0",
+        "year_range": "1950–1990",
+        "ai_stage": "IITs + IT Services Revolution",
+        "key_events": [
+          "IIT system founded (1951) — world-class engineering pipeline",
+          "Infosys, Wipro, TCS founded — IT outsourcing begins",
+          "India becomes global software services backbone",
+          "ISRO builds space computing capability"
+        ],
+        "impact_level": "High",
+        "impact_score": 4
+      },
+      {
+        "era": "Industry 4.0",
+        "year_range": "2000–present",
+        "ai_stage": "AI Talent Powerhouse + National AI Mission",
+        "key_events": [
+          "India produces largest share of global AI engineers",
+          "IndiaAI Mission — $1.25B national program (2024)",
+          "UPI digital payments — world's largest AI-driven financial system",
+          "Bengaluru emerges as top-5 global AI hub; #1 AI hiring growth 2024"
+        ],
+        "impact_level": "Very High",
+        "impact_score": 4
+      }
+    ]
+  },
+  {
+    "country": "France",
+    "code": "FR",
+    "coordinates": [46.22, 2.21],
+    "layer": 1,
+    "narrative_weight": "pioneer_arc",
+    "description": "Yann LeCun's homeland — birthplace of Cartesian logic, INRIA research excellence, and Europe's first national AI strategy.",
+    "eras": [
+      {
+        "era": "Industry 1.0",
+        "year_range": "1760–1840",
+        "ai_stage": "Mechanical Computation Imagined",
+        "key_events": [
+          "Jacquard loom invented in Lyon (1804) — first punch-card programmable machine",
+          "Blaise Pascal's earlier Pascaline calculator inspires mechanical thought",
+          "Enlightenment rationalism shapes French scientific culture"
+        ],
+        "impact_level": "High",
+        "impact_score": 4
+      },
+      {
+        "era": "Industry 2.0",
+        "year_range": "1870–1940",
+        "ai_stage": "Mathematical Logic & Engineering",
+        "key_events": [
+          "École Polytechnique produces elite mathematical engineers",
+          "French electrical industry modernizes under Third Republic",
+          "Formalization of logic and set theory by French mathematicians"
+        ],
+        "impact_level": "Medium",
+        "impact_score": 3
+      },
+      {
+        "era": "Industry 3.0",
+        "year_range": "1950–1990",
+        "ai_stage": "INRIA & Computer Vision Foundations",
+        "key_events": [
+          "INRIA founded (1967) — national institute for digital sciences",
+          "French AI research focuses on computer vision and formal methods",
+          "Strong academic AI community — Cartesian algorithmic approaches dominate"
+        ],
+        "impact_level": "High",
+        "impact_score": 3
+      },
+      {
+        "era": "Industry 4.0",
+        "year_range": "2000–present",
+        "ai_stage": "LeCun, FAIR & Europe's AI Strategy Leader",
+        "key_events": [
+          "Yann LeCun (French-born) wins Turing Award for deep learning (2018)",
+          "Meta AI Research (FAIR) opens Paris lab (2015)",
+          "Macron's 'AI for Humanity' strategy — Europe's first national AI plan, €1.5B (2018)",
+          "France commits €109B to AI-related programs (2025); BLOOM multilingual LLM built on Jean Zay supercomputer"
+        ],
+        "impact_level": "Very High",
+        "impact_score": 4
+      }
+    ]
+  },
+  {
+    "country": "Canada",
+    "code": "CA",
+    "coordinates": [56.13, -106.35],
+    "layer": 1,
+    "narrative_weight": "pioneer_arc",
+    "description": "The deep learning cradle — Hinton, Bengio, and Sutton built the foundations of modern AI from Canadian universities.",
+    "eras": [
+      {
+        "era": "Industry 1.0",
+        "year_range": "1760–1840",
+        "ai_stage": "Colonial Resource Economy",
+        "key_events": [
+          "British North America focused on resource extraction",
+          "Limited industrial manufacturing compared to UK and US"
+        ],
+        "impact_level": "Very Low",
+        "impact_score": 1
+      },
+      {
+        "era": "Industry 2.0",
+        "year_range": "1870–1940",
+        "ai_stage": "Industrialization & University Building",
+        "key_events": [
+          "University of Toronto founded — future AI powerhouse (1827)",
+          "Canadian industrial expansion post-Confederation (1867)",
+          "Transcontinental railway drives economic modernization"
+        ],
+        "impact_level": "Low",
+        "impact_score": 2
+      },
+      {
+        "era": "Industry 3.0",
+        "year_range": "1950–1990",
+        "ai_stage": "Neural Network Research Begins",
+        "key_events": [
+          "Geoffrey Hinton joins University of Toronto, backed by CIFAR (1987)",
+          "CIFAR's Neural Computation & Adaptive Perception program launched",
+          "Yoshua Bengio founds MILA — Montreal Institute for Learning Algorithms (1993)",
+          "Richard Sutton advances reinforcement learning foundations"
+        ],
+        "impact_level": "Very High",
+        "impact_score": 5
+      },
+      {
+        "era": "Industry 4.0",
+        "year_range": "2000–present",
+        "ai_stage": "Deep Learning Godfather Nation",
+        "key_events": [
+          "Hinton, Bengio, LeCun win Turing Award for deep learning (2018)",
+          "Vector Institute co-founded by Hinton in Toronto (2017)",
+          "Canada AI strategy — $2.4B plan (2024)",
+          "All three Canadian national AI institute chiefs are Turing Award winners"
+        ],
+        "impact_level": "Extreme",
+        "impact_score": 5
+      }
+    ]
+  },
+  {
+    "country": "Russia",
+    "code": "RU",
+    "coordinates": [61.52, 105.31],
+    "layer": 1,
+    "narrative_weight": "cautionary_arc",
+    "description": "Cold War computing rival — Soviet cybernetics clashed with ideology; modern Russia deploys AI in surveillance and war.",
+    "eras": [
+      {
+        "era": "Industry 1.0",
+        "year_range": "1760–1840",
+        "ai_stage": "Agrarian Imperial Economy",
+        "key_events": [
+          "Russian Empire largely serf-based agricultural economy",
+          "Limited mechanization; some textile factories in St. Petersburg"
+        ],
+        "impact_level": "Low",
+        "impact_score": 1
+      },
+      {
+        "era": "Industry 2.0",
+        "year_range": "1870–1940",
+        "ai_stage": "State-Led Industrialization",
+        "key_events": [
+          "Trans-Siberian Railway (1891–1916) unifies industrial economy",
+          "Soviet Union launches rapid industrialization (1928 Five-Year Plans)",
+          "Stalin's era builds heavy industry at massive human cost"
+        ],
+        "impact_level": "High",
+        "impact_score": 3
+      },
+      {
+        "era": "Industry 3.0",
+        "year_range": "1950–1990",
+        "ai_stage": "Soviet Cybernetics — Cold War AI",
+        "key_events": [
+          "MESM — first Soviet electronic computer operational (1950)",
+          "Cybernetics initially banned as 'bourgeois science', rehabilitated by 1958",
+          "Kyiv Cybernetics Institute founded by Victor Glushkov (1957)",
+          "Soviet chess AI and mathematical theorem proving reach world class"
+        ],
+        "impact_level": "High",
+        "impact_score": 4
+      },
+      {
+        "era": "Industry 4.0",
+        "year_range": "2000–present",
+        "ai_stage": "Yandex AI + Surveillance Deployment",
+        "key_events": [
+          "Yandex builds competitive NLP and search AI (2000s–2010s)",
+          "Russia develops AI for military and surveillance systems",
+          "Sberbank AI strategy — largest Russian AI investment program",
+          "Brain drain accelerates post-2022; Western sanctions impact AI hardware access"
+        ],
+        "impact_level": "Medium",
+        "impact_score": 3
+      }
+    ]
+  },
+  {
+    "country": "South Korea",
+    "code": "KR",
+    "coordinates": [35.90, 127.76],
+    "layer": 1,
+    "narrative_weight": "scale_arc",
+    "description": "The semiconductor backbone of AI hardware — Samsung, SK Hynix, and KAIST power the global AI supply chain.",
+    "eras": [
+      {
+        "era": "Industry 1.0",
+        "year_range": "1760–1840",
+        "ai_stage": "Joseon Dynasty Agrarian Economy",
+        "key_events": [
+          "Joseon Korea largely agricultural and isolated",
+          "No significant industrialization in this period"
+        ],
+        "impact_level": "Very Low",
+        "impact_score": 1
+      },
+      {
+        "era": "Industry 2.0",
+        "year_range": "1870–1940",
+        "ai_stage": "Colonial Japanese Industrialization",
+        "key_events": [
+          "Japan colonizes Korea (1910–1945) — forced industrialization for war economy",
+          "Limited heavy industry built under Japanese administration"
+        ],
+        "impact_level": "Low",
+        "impact_score": 1
+      },
+      {
+        "era": "Industry 3.0",
+        "year_range": "1950–1990",
+        "ai_stage": "Chaebol Electronics Revolution",
+        "key_events": [
+          "KAIST founded (1971) — Korea's MIT-equivalent for science and technology",
+          "Samsung enters semiconductors (1974) — begins global chip dominance",
+          "ETRI (Electronics and Telecommunications Research Institute) founded (1976)",
+          "Korea becomes top-3 global consumer electronics exporter"
+        ],
+        "impact_level": "High",
+        "impact_score": 4
+      },
+      {
+        "era": "Industry 4.0",
+        "year_range": "2000–present",
+        "ai_stage": "AI Hardware Superpower",
+        "key_events": [
+          "SK Hynix commands ~50% of global HBM (High Bandwidth Memory) market",
+          "South Korea ranks 3rd globally in AI patents (2010–2021)",
+          "AI Basic Act — Asia-Pacific's first comprehensive AI legislation (effective Jan 2026)",
+          "South Korea announces $735B sovereign AI initiative (2025); NAVER, SK Telecom build Korean LLMs"
+        ],
+        "impact_level": "Very High",
+        "impact_score": 4
+      }
+    ]
+  },
+  {
+    "country": "Sweden",
+    "code": "SE",
+    "coordinates": [60.12, 18.64],
+    "layer": 2,
+    "narrative_weight": "scale_arc",
+    "description": "Ericsson's communication legacy, Spotify's data intelligence, and ethical AI — a small nation with outsized AI infrastructure.",
+    "eras": [
+      {
+        "era": "Industry 1.0",
+        "year_range": "1760–1840",
+        "ai_stage": "Iron & Timber Economy",
+        "key_events": [
+          "Sweden exports iron and timber — industrial raw materials",
+          "Early mechanized mills appear in southern Sweden"
+        ],
+        "impact_level": "Low",
+        "impact_score": 1
+      },
+      {
+        "era": "Industry 2.0",
+        "year_range": "1870–1940",
+        "ai_stage": "Engineering & Telecom Foundations",
+        "key_events": [
+          "Ericsson founded (1876) — future global telecom giant",
+          "ASEA (later ABB) leads electrical engineering",
+          "Nobel Prize tradition — Sweden invests in science culture"
+        ],
+        "impact_level": "Medium",
+        "impact_score": 3
+      },
+      {
+        "era": "Industry 3.0",
+        "year_range": "1950–1990",
+        "ai_stage": "Telecom & Computing Software",
+        "key_events": [
+          "Ericsson pioneers mobile network technology",
+          "Swedish universities build strong CS programs",
+          "Teuvo Kohonen (Finnish-Swedish collaboration) develops self-organizing maps"
+        ],
+        "impact_level": "Medium",
+        "impact_score": 3
+      },
+      {
+        "era": "Industry 4.0",
+        "year_range": "2000–present",
+        "ai_stage": "Ethical AI + Data Infrastructure",
+        "key_events": [
+          "Spotify uses AI for recommendation at global scale (2006+)",
+          "WASP — Sweden's largest research program, 1.8B SEK for autonomous systems",
+          "Microsoft invests $3.2B in Sweden AI cloud infrastructure (2024)",
+          "Swedish national AI strategy emphasizing responsible AI (2018)"
+        ],
+        "impact_level": "High",
+        "impact_score": 3
+      }
+    ]
+  },
+  {
+    "country": "Israel",
+    "code": "IL",
+    "coordinates": [31.04, 34.85],
+    "layer": 2,
+    "narrative_weight": "pioneer_arc",
+    "description": "Startup Nation meets AI — Weizmann built one of the world's first computers; today Israel has more AI startups per capita than any other country.",
+    "eras": [
+      {
+        "era": "Industry 1.0",
+        "year_range": "1760–1840",
+        "ai_stage": "Pre-State — No Industrial Base",
+        "key_events": [
+          "Region under Ottoman rule — no significant industrial development",
+          "Early Jewish scientific diaspora in Europe"
+        ],
+        "impact_level": "Very Low",
+        "impact_score": 1
+      },
+      {
+        "era": "Industry 2.0",
+        "year_range": "1870–1940",
+        "ai_stage": "Pre-State Scientific Immigration",
+        "key_events": [
+          "Jewish scientists flee Europe — bring engineering and math expertise",
+          "Daniel Sieff Research Institute (future Weizmann Institute) founded (1934)"
+        ],
+        "impact_level": "Very Low",
+        "impact_score": 1
+      },
+      {
+        "era": "Industry 3.0",
+        "year_range": "1950–1990",
+        "ai_stage": "Early Computing & Cryptography",
+        "key_events": [
+          "WEIZAC built at Weizmann Institute — Israel's first computer, one of world's first (1954)",
+          "Technion and Weizmann Institute establish world-class CS programs",
+          "Military intelligence (Unit 8200) drives applied AI and cryptography",
+          "Shafi Goldwasser co-develops probabilistic encryption — future Turing Award winner (2012)"
+        ],
+        "impact_level": "High",
+        "impact_score": 4
+      },
+      {
+        "era": "Industry 4.0",
+        "year_range": "2000–present",
+        "ai_stage": "AI Startup Nation",
+        "key_events": [
+          "Israel has world's highest AI startup density per capita",
+          "Intel, Google, Microsoft, IBM all operate major AI R&D centers in Israel",
+          "Waze, Mobileye (autonomous driving), and Check Point AI all born in Israel",
+          "National AI Program launched with NIS 5.26B (~$1.5B) (2021)"
+        ],
+        "impact_level": "Very High",
+        "impact_score": 4
+      }
+    ]
+  },
+  {
+    "country": "Netherlands",
+    "code": "NL",
+    "coordinates": [52.13, 5.29],
+    "layer": 2,
+    "narrative_weight": "scale_arc",
+    "description": "Philips, ASML, and a culture of pragmatic engineering — the Netherlands controls the world's most critical AI hardware chokepoint.",
+    "eras": [
+      {
+        "era": "Industry 1.0",
+        "year_range": "1760–1840",
+        "ai_stage": "Trade & Early Mechanization",
+        "key_events": [
+          "Dutch trading economy adapts early mechanical production",
+          "Windmill-powered industry transitions to steam"
+        ],
+        "impact_level": "Low",
+        "impact_score": 2
+      },
+      {
+        "era": "Industry 2.0",
+        "year_range": "1870–1940",
+        "ai_stage": "Electrical Engineering & Optics",
+        "key_events": [
+          "Philips founded (1891) — global electronics company",
+          "Dutch optics and precision manufacturing culture develops",
+          "Eindhoven becomes industrial technology hub"
+        ],
+        "impact_level": "High",
+        "impact_score": 4
+      },
+      {
+        "era": "Industry 3.0",
+        "year_range": "1950–1990",
+        "ai_stage": "Semiconductor & Software Foundations",
+        "key_events": [
+          "Philips research labs advance semiconductor physics",
+          "ASML spin-out from Philips begins (1984) — lithography machines",
+          "Dutch universities establish strong AI and CS programs"
+        ],
+        "impact_level": "High",
+        "impact_score": 4
+      },
+      {
+        "era": "Industry 4.0",
+        "year_range": "2000–present",
+        "ai_stage": "ASML — The AI Hardware Chokepoint",
+        "key_events": [
+          "ASML monopolizes EUV lithography — only source of machines to make advanced AI chips",
+          "Philips AI applied to medical imaging at global scale",
+          "Netherlands national AI strategy (2019) with Philips, IBM, and TNO as key partners",
+          "ASML becomes geopolitical linchpin — chip export controls reshape global AI race"
+        ],
+        "impact_level": "Very High",
+        "impact_score": 5
+      }
+    ]
+  },
+  {
+    "country": "Singapore",
+    "code": "SG",
+    "coordinates": [1.35, 103.82],
+    "layer": 2,
+    "narrative_weight": "leapfrog_arc",
+    "description": "The world's most AI-ready city-state — strategic governance and talent attract global AI investment as Asia's tech neutral hub.",
+    "eras": [
+      {
+        "era": "Industry 1.0",
+        "year_range": "1760–1840",
+        "ai_stage": "British Colonial Trading Port",
+        "key_events": [
+          "Singapore founded as British trading post (1819)",
+          "No industrial production — pure trade intermediary"
+        ],
+        "impact_level": "Very Low",
+        "impact_score": 1
+      },
+      {
+        "era": "Industry 2.0",
+        "year_range": "1870–1940",
+        "ai_stage": "Colonial Port Economy",
+        "key_events": [
+          "Singapore becomes key rubber and tin trade hub for British Malaya",
+          "Limited industrial base — economy driven by entrepôt trade"
+        ],
+        "impact_level": "Very Low",
+        "impact_score": 1
+      },
+      {
+        "era": "Industry 3.0",
+        "year_range": "1950–1990",
+        "ai_stage": "Electronics Manufacturing Miracle",
+        "key_events": [
+          "Independence (1965) — Lee Kuan Yew prioritizes industrial transformation",
+          "Texas Instruments, HP set up semiconductor manufacturing in Singapore",
+          "National University of Singapore (NUS) builds strong CS program",
+          "Singapore becomes Asia's electronics manufacturing hub"
+        ],
+        "impact_level": "High",
+        "impact_score": 3
+      },
+      {
+        "era": "Industry 4.0",
+        "year_range": "2000–present",
+        "ai_stage": "Global AI Hub — Policy & Talent",
+        "key_events": [
+          "AI Singapore national program launched (2017) — $150M investment",
+          "NUS, NTU rank top-10 globally for AI research in Asia",
+          "Singapore ranks #2 globally in AI adoption among working-age population (2025)",
+          "Preferred Southeast Asian base for Chinese AI startups; Google, Microsoft AI R&D hubs established"
+        ],
+        "impact_level": "Very High",
+        "impact_score": 4
+      }
+    ]
+  },
+  {
+    "country": "Australia",
+    "code": "AU",
+    "coordinates": [-25.27, 133.77],
+    "layer": 2,
+    "narrative_weight": "scale_arc",
+    "description": "Wi-Fi inventor, world-class AI research institutions — Australia punches above its weight in AI breakthroughs.",
+    "eras": [
+      {
+        "era": "Industry 1.0",
+        "year_range": "1760–1840",
+        "ai_stage": "Colonial Resource Economy",
+        "key_events": [
+          "British colony focused on agriculture and resource extraction",
+          "No meaningful industrial activity in this period"
+        ],
+        "impact_level": "Very Low",
+        "impact_score": 1
+      },
+      {
+        "era": "Industry 2.0",
+        "year_range": "1870–1940",
+        "ai_stage": "Mining & Agricultural Industrialization",
+        "key_events": [
+          "Gold rush drives rapid population and infrastructure growth",
+          "Australian universities established — University of Melbourne (1853), Sydney (1850)",
+          "BHP founded (1885) — mining and heavy industry begins"
+        ],
+        "impact_level": "Low",
+        "impact_score": 2
+      },
+      {
+        "era": "Industry 3.0",
+        "year_range": "1950–1990",
+        "ai_stage": "CSIRO & Computing Research",
+        "key_events": [
+          "CSIRO (Commonwealth Scientific and Industrial Research Organisation) expands computing research",
+          "Australian researchers contribute to early networking and computing",
+          "Wi-Fi technology invented at CSIRO (1990s — commercialized later)"
+        ],
+        "impact_level": "Medium",
+        "impact_score": 3
+      },
+      {
+        "era": "Industry 4.0",
+        "year_range": "2000–present",
+        "ai_stage": "AI Research Strength + National Strategy",
+        "key_events": [
+          "Canva uses AI for design at 150M+ user scale (founded 2013)",
+          "Australian AI Safety Institute announced (2024) — AI Seoul Summit commitment",
+          "University of Melbourne, UNSW ranked globally for AI research",
+          "CSIRO's Data61 leads national applied AI research"
+        ],
+        "impact_level": "High",
+        "impact_score": 3
+      }
+    ]
+  },
+  {
+    "country": "Switzerland",
+    "code": "CH",
+    "coordinates": [46.81, 8.22],
+    "layer": 2,
+    "narrative_weight": "pioneer_arc",
+    "description": "ETH Zurich, CERN, and precision engineering — Switzerland hosts world-class AI research and global tech headquarters.",
+    "eras": [
+      {
+        "era": "Industry 1.0",
+        "year_range": "1760–1840",
+        "ai_stage": "Watch & Textile Precision",
+        "key_events": [
+          "Swiss watchmaking develops precision mechanical engineering",
+          "Textile mechanization in eastern Switzerland"
+        ],
+        "impact_level": "Medium",
+        "impact_score": 2
+      },
+      {
+        "era": "Industry 2.0",
+        "year_range": "1870–1940",
+        "ai_stage": "Chemical & Precision Engineering",
+        "key_events": [
+          "ETH Zurich founded (1855) — becomes world's top technical university",
+          "Roche, Novartis, ABB founded — precision industrial base",
+          "Einstein studies at ETH Zurich (1896–1900)"
+        ],
+        "impact_level": "High",
+        "impact_score": 4
+      },
+      {
+        "era": "Industry 3.0",
+        "year_range": "1950–1990",
+        "ai_stage": "CERN & Computing Science",
+        "key_events": [
+          "CERN founded near Geneva (1954) — drives particle physics computing",
+          "World Wide Web invented at CERN by Tim Berners-Lee (1989)",
+          "ETH Zurich builds world-class CS and AI research programs"
+        ],
+        "impact_level": "Very High",
+        "impact_score": 5
+      },
+      {
+        "era": "Industry 4.0",
+        "year_range": "2000–present",
+        "ai_stage": "AI Research Hub & Neutral Tech Ground",
+        "key_events": [
+          "ETH Zurich consistently ranks top-5 globally for AI and robotics research",
+          "Google Brain, Disney Research, IBM Research establish Zurich labs",
+          "Switzerland hosts WEF Davos — annual global AI policy debates",
+          "DeepCode (AI code review) and Wayve AI born from Swiss research ecosystem"
+        ],
+        "impact_level": "High",
+        "impact_score": 4
+      }
+    ]
+  },
+  {
+    "country": "UAE",
+    "code": "AE",
+    "coordinates": [23.42, 53.84],
+    "layer": 2,
+    "narrative_weight": "leapfrog_arc",
+    "description": "From oil to algorithms — UAE appointed the world's first AI minister in 2017 and leads global AI adoption with 64% of working-age population using AI.",
+    "eras": [
+      {
+        "era": "Industry 1.0",
+        "year_range": "1760–1840",
+        "ai_stage": "Tribal Pearl-Fishing Economy",
+        "key_events": [
+          "Trucial States — pearl fishing and trade economy",
+          "No industrial development in this period"
+        ],
+        "impact_level": "Very Low",
+        "impact_score": 1
+      },
+      {
+        "era": "Industry 2.0",
+        "year_range": "1870–1940",
+        "ai_stage": "British Protectorate — Pre-Oil Era",
+        "key_events": [
+          "British protectorate established — maritime trade focus",
+          "No industrial base; desert economy pre-oil discovery"
+        ],
+        "impact_level": "Very Low",
+        "impact_score": 1
+      },
+      {
+        "era": "Industry 3.0",
+        "year_range": "1950–1990",
+        "ai_stage": "Oil Discovery & Rapid Modernization",
+        "key_events": [
+          "Oil discovered (1958) — transforms UAE economy",
+          "UAE federation formed (1971) under Sheikh Zayed",
+          "Dubai begins rapid infrastructure and diversification investments"
+        ],
+        "impact_level": "Low",
+        "impact_score": 2
+      },
+      {
+        "era": "Industry 4.0",
+        "year_range": "2000–present",
+        "ai_stage": "AI Nation — From Oil to Algorithms",
+        "key_events": [
+          "World's first Minister of State for AI appointed (2017)",
+          "Mohamed bin Zayed University of AI — first AI-focused university globally (2019)",
+          "G42 sovereign AI champion; Falcon LLM released as open Arabic-language model",
+          "UAE ranks #1 globally in AI adoption (64% working-age population, 2025); Stargate UAE project announced"
+        ],
+        "impact_level": "Very High",
+        "impact_score": 4
+      }
+    ]
+  },
+  {
+    "country": "Saudi Arabia",
+    "code": "SA",
+    "coordinates": [23.88, 45.07],
+    "layer": 2,
+    "narrative_weight": "leapfrog_arc",
+    "description": "Vision 2030 bets the kingdom on AI — $100B Project Transcendence aims to make Saudi Arabia a global AI powerhouse.",
+    "eras": [
+      {
+        "era": "Industry 1.0",
+        "year_range": "1760–1840",
+        "ai_stage": "Pre-Oil Tribal Economy",
+        "key_events": [
+          "Arabian Peninsula dominated by tribal and trade economies",
+          "No industrial activity in this period"
+        ],
+        "impact_level": "Very Low",
+        "impact_score": 1
+      },
+      {
+        "era": "Industry 2.0",
+        "year_range": "1870–1940",
+        "ai_stage": "Unification & Oil Discovery",
+        "key_events": [
+          "Saudi Arabia unified under Ibn Saud (1932)",
+          "Oil discovered by ARAMCO (1938) — transforms geopolitical importance"
+        ],
+        "impact_level": "Very Low",
+        "impact_score": 1
+      },
+      {
+        "era": "Industry 3.0",
+        "year_range": "1950–1990",
+        "ai_stage": "Oil Wealth & Institutional Building",
+        "key_events": [
+          "King Abdullah University of Science and Technology (KAUST) planned",
+          "Saudi Aramco builds world's largest oil IT infrastructure",
+          "First Saudi universities expand with petrodollar funding"
+        ],
+        "impact_level": "Low",
+        "impact_score": 2
+      },
+      {
+        "era": "Industry 4.0",
+        "year_range": "2000–present",
+        "ai_stage": "Vision 2030 — AI Superpower Ambition",
+        "key_events": [
+          "Saudi Data and AI Authority (SDAIA) established — 70% of Vision 2030 goals involve AI",
+          "HUMAIN national AI company backed by Public Investment Fund (PIF) launched (2025)",
+          "Project Transcendence — $100B AI initiative announced (2024)",
+          "Google Cloud $10B partnership; AI hiring growth 28.7% (2nd highest globally, 2024)"
+        ],
+        "impact_level": "High",
+        "impact_score": 3
+      }
+    ]
+  },
+  {
+    "country": "Finland",
+    "code": "FI",
+    "coordinates": [61.92, 25.74],
+    "layer": 2,
+    "narrative_weight": "scale_arc",
+    "description": "Nokia's legacy, Linux's birthplace, and Europe's #1 digital economy — Finland applies AI with Nordic precision and ethical depth.",
+    "eras": [
+      {
+        "era": "Industry 1.0",
+        "year_range": "1760–1840",
+        "ai_stage": "Forestry & Mining Economy",
+        "key_events": [
+          "Finland under Swedish and later Russian rule — timber economy",
+          "Limited industrial base in early period"
+        ],
+        "impact_level": "Very Low",
+        "impact_score": 1
+      },
+      {
+        "era": "Industry 2.0",
+        "year_range": "1870–1940",
+        "ai_stage": "Paper, Wood & Manufacturing",
+        "key_events": [
+          "Finnish independence (1917) — rapid industrial modernization",
+          "Nokia founded as paper company (1865), pivots to rubber and cables",
+          "University of Helsinki expands engineering programs"
+        ],
+        "impact_level": "Low",
+        "impact_score": 2
+      },
+      {
+        "era": "Industry 3.0",
+        "year_range": "1950–1990",
+        "ai_stage": "Telecom & Linux Open Source Revolution",
+        "key_events": [
+          "Nokia transforms into global mobile phone leader",
+          "Linus Torvalds creates Linux kernel at University of Helsinki (1991)",
+          "Finland digitizes public services — becomes global leader in e-government"
+        ],
+        "impact_level": "High",
+        "impact_score": 4
+      },
+      {
+        "era": "Industry 4.0",
+        "year_range": "2000–present",
+        "ai_stage": "Digital EU Leader + Ethical AI",
+        "key_events": [
+          "Finland ranks #1 in EU Digital Economy and Society Index (DESI 2020)",
+          "Elements of AI — free online AI education program taught 1% of population",
+          "AuroraAI public services transformation program",
+          "Finland co-leads EU AI Act ethical framework; Helsinki AI ecosystem ranks top-3 in Europe"
+        ],
+        "impact_level": "High",
+        "impact_score": 3
+      }
+    ]
+  },
+  {
+    "country": "Brazil",
+    "code": "BR",
+    "coordinates": [-14.23, -51.92],
+    "layer": 2,
+    "narrative_weight": "leapfrog_arc",
+    "description": "Latin America's AI giant — from coffee and steel to a vibrant startup ecosystem with the world's second-highest AI hiring growth.",
+    "eras": [
+      {
+        "era": "Industry 1.0",
+        "year_range": "1760–1840",
+        "ai_stage": "Colonial Agricultural Economy",
+        "key_events": [
+          "Portuguese colony — sugar, gold, and slave-based economy",
+          "No industrial development; resource extraction focus"
+        ],
+        "impact_level": "Very Low",
+        "impact_score": 1
+      },
+      {
+        "era": "Industry 2.0",
+        "year_range": "1870–1940",
+        "ai_stage": "Coffee Economy & Early Industry",
+        "key_events": [
+          "Coffee boom funds early industrialization",
+          "First steel mills and textile factories established in São Paulo",
+          "Getúlio Vargas drives state-led industrialization (1930s)"
+        ],
+        "impact_level": "Low",
+        "impact_score": 2
+      },
+      {
+        "era": "Industry 3.0",
+        "year_range": "1950–1990",
+        "ai_stage": "Tech Nationalism & University Expansion",
+        "key_events": [
+          "UNICAMP and USP become leading Latin American research universities",
+          "Brazil develops national computer industry policy (Informatics Law, 1984)",
+          "EMBRAPA uses computing for agricultural optimization — world model"
+        ],
+        "impact_level": "Medium",
+        "impact_score": 2
+      },
+      {
+        "era": "Industry 4.0",
+        "year_range": "2000–present",
+        "ai_stage": "Latin America's AI Powerhouse",
+        "key_events": [
+          "Nubank becomes world's largest digital bank using AI (founded 2013)",
+          "Brazil AI hiring growth +30.8% — 2nd highest globally (2024)",
+          "Latin America's first AI regulatory sandbox launched",
+          "AI skill penetration at 13% — tied with Germany; COP30 AI for climate agenda (2025)"
+        ],
+        "impact_level": "High",
+        "impact_score": 3
+      }
+    ]
+  },
+  {
+    "country": "Taiwan",
+    "code": "TW",
+    "coordinates": [23.69, 120.96],
+    "layer": 1,
+    "narrative_weight": "scale_arc",
+    "description": "The world's AI chip foundry — TSMC manufactures the semiconductors that power virtually every AI model on Earth.",
+    "eras": [
+      {
+        "era": "Industry 1.0",
+        "year_range": "1760–1840",
+        "ai_stage": "Agricultural Colonial Economy",
+        "key_events": [
+          "Taiwan under Qing Dynasty — agricultural economy",
+          "No industrial development in this period"
+        ],
+        "impact_level": "Very Low",
+        "impact_score": 1
+      },
+      {
+        "era": "Industry 2.0",
+        "year_range": "1870–1940",
+        "ai_stage": "Japanese Colonial Industrialization",
+        "key_events": [
+          "Japan colonizes Taiwan (1895) — builds sugar, rail, and light industry",
+          "Infrastructure laid for future industrialization"
+        ],
+        "impact_level": "Low",
+        "impact_score": 1
+      },
+      {
+        "era": "Industry 3.0",
+        "year_range": "1950–1990",
+        "ai_stage": "Electronics Export Miracle",
+        "key_events": [
+          "Taiwan pivots to export-led electronics manufacturing",
+          "TSMC founded by Morris Chang (1987) — pure-play semiconductor foundry model invented",
+          "Hsinchu Science Park becomes Asia's Silicon Valley",
+          "ASUS, Acer, MediaTek founded — global electronics brands"
+        ],
+        "impact_level": "Very High",
+        "impact_score": 5
+      },
+      {
+        "era": "Industry 4.0",
+        "year_range": "2000–present",
+        "ai_stage": "TSMC — The Semiconductor of AI",
+        "key_events": [
+          "TSMC manufactures chips for Apple, NVIDIA, AMD — over 90% of world's advanced chips",
+          "NVIDIA A100/H100 AI GPUs all fabbed by TSMC",
+          "Taiwan becomes geopolitical flashpoint — 'silicon shield' strategy",
+          "Taiwan AI action plan (2023) — government investment in domestic AI startups"
+        ],
+        "impact_level": "Extreme",
+        "impact_score": 5
+      }
+    ]
+  },
+  {
+    "country": "Denmark",
+    "code": "DK",
+    "coordinates": [56.26, 9.50],
+    "layer": 2,
+    "narrative_weight": "scale_arc",
+    "description": "World's first Tech Ambassador nation — Denmark leads in ethical AI governance and is Europe's most digitized government.",
+    "eras": [
+      {
+        "era": "Industry 1.0",
+        "year_range": "1760–1840",
+        "ai_stage": "Maritime & Agricultural Economy",
+        "key_events": [
+          "Denmark as major maritime trading nation",
+          "Early mechanized agriculture; limited heavy industry"
+        ],
+        "impact_level": "Low",
+        "impact_score": 1
+      },
+      {
+        "era": "Industry 2.0",
+        "year_range": "1870–1940",
+        "ai_stage": "Engineering & Telecom Industry",
+        "key_events": [
+          "Niels Bohr born (1885) — atomic theory shapes scientific culture",
+          "Bang & Olufsen, Grundfos founded — precision engineering tradition",
+          "Denmark rapidly electrifies industries"
+        ],
+        "impact_level": "Medium",
+        "impact_score": 2
+      },
+      {
+        "era": "Industry 3.0",
+        "year_range": "1950–1990",
+        "ai_stage": "Cooperative Digital State",
+        "key_events": [
+          "Denmark builds world-leading welfare state with strong data systems",
+          "Scandinavian user-centered design philosophy influences computing",
+          "Public digital infrastructure investments begin"
+        ],
+        "impact_level": "Medium",
+        "impact_score": 3
+      },
+      {
+        "era": "Industry 4.0",
+        "year_range": "2000–present",
+        "ai_stage": "Digital Pioneer & Tech Diplomacy",
+        "key_events": [
+          "Denmark appoints world's first national Tech Ambassador (2017)",
+          "National AI Strategy launched (2019) with 24 initiatives",
+          "Denmark ranks #2 in EU DESI digital economy index",
+          "Novo Nordisk AI-driven drug discovery — world-leading pharmaceutical AI application"
+        ],
+        "impact_level": "High",
+        "impact_score": 3
+      }
+    ]
+  },
+  {
+    "country": "Poland",
+    "code": "PL",
+    "coordinates": [51.91, 19.14],
+    "layer": 2,
+    "narrative_weight": "scale_arc",
+    "description": "Eastern Europe's tech talent engine — from communist computing to a booming AI startup ecosystem fueling European tech.",
+    "eras": [
+      {
+        "era": "Industry 1.0",
+        "year_range": "1760–1840",
+        "ai_stage": "Partitioned Agricultural Economy",
+        "key_events": [
+          "Poland partitioned among Russia, Prussia, and Austria — no unified industrial policy",
+          "Mining and agriculture dominate under foreign rule"
+        ],
+        "impact_level": "Very Low",
+        "impact_score": 1
+      },
+      {
+        "era": "Industry 2.0",
+        "year_range": "1870–1940",
+        "ai_stage": "Heavy Industry & Engineering",
+        "key_events": [
+          "Polish independence restored (1918) — rapid industrial development",
+          "Strong mathematical tradition — Polish school of mathematics emerges",
+          "Cryptologists break Enigma machine (1932) — world-changing contribution to computing"
+        ],
+        "impact_level": "Medium",
+        "impact_score": 3
+      },
+      {
+        "era": "Industry 3.0",
+        "year_range": "1950–1990",
+        "ai_stage": "Communist Computing & Math Excellence",
+        "key_events": [
+          "Poland builds strong mathematical olympiad tradition",
+          "Warsaw University and Wrocław become major CS research centers",
+          "State computing limited but mathematical talent recognized internationally"
+        ],
+        "impact_level": "Medium",
+        "impact_score": 2
+      },
+      {
+        "era": "Industry 4.0",
+        "year_range": "2000–present",
+        "ai_stage": "Eastern Europe's AI Talent Hub",
+        "key_events": [
+          "Poland becomes top outsourcing destination for EU tech companies",
+          "CD Projekt RED pioneers AI-assisted game narrative (Cyberpunk 2077)",
+          "Warsaw emerges as Central Europe's leading startup hub",
+          "Poland National AI Strategy (2021) — focus on AI talent and digital transformation"
+        ],
+        "impact_level": "High",
+        "impact_score": 3
+      }
+    ]
+  },
+  {
+    "country": "Italy",
+    "code": "IT",
+    "coordinates": [41.87, 12.56],
+    "layer": 2,
+    "narrative_weight": "scale_arc",
+    "description": "From Leonardo's machines to modern robotics — Italy's IIT leads European robot AI while design culture shapes human-AI interaction.",
+    "eras": [
+      {
+        "era": "Industry 1.0",
+        "year_range": "1760–1840",
+        "ai_stage": "Fragmented Pre-Unification States",
+        "key_events": [
+          "Italian peninsula politically fragmented — limits industrial coordination",
+          "Volta invents the electric battery (1800) — foundational for electronics"
+        ],
+        "impact_level": "Medium",
+        "impact_score": 2
+      },
+      {
+        "era": "Industry 2.0",
+        "year_range": "1870–1940",
+        "ai_stage": "Unification & Northern Industrial Triangle",
+        "key_events": [
+          "Italian unification (1861) enables national industrial policy",
+          "Fiat, Olivetti founded — precision manufacturing culture",
+          "Marconi invents radio (1895) — wireless communication breakthrough"
+        ],
+        "impact_level": "High",
+        "impact_score": 4
+      },
+      {
+        "era": "Industry 3.0",
+        "year_range": "1950–1990",
+        "ai_stage": "Olivetti Computers & Early AI",
+        "key_events": [
+          "Olivetti builds Italy's first personal computer — Programma 101 (1965)",
+          "Italian AI research at University of Bologna, Pisa, and Sapienza",
+          "Strong tradition of mathematical logic and formal AI methods"
+        ],
+        "impact_level": "Medium",
+        "impact_score": 3
+      },
+      {
+        "era": "Industry 4.0",
+        "year_range": "2000–present",
+        "ai_stage": "Robotics & European AI Policy",
+        "key_events": [
+          "Italian Institute of Technology (IIT) develops iCub humanoid robot",
+          "Italy co-leads EU AI Act negotiations — safety and ethics focus",
+          "AI Safety Institute announced at AI Seoul Summit (2024)",
+          "Ferrari, Lamborghini apply AI to manufacturing; design-led AI UX culture"
+        ],
+        "impact_level": "Medium",
+        "impact_score": 3
+      }
+    ]
+  },
+  {
+    "country": "Spain",
+    "code": "ES",
+    "coordinates": [40.46, -3.74],
+    "layer": 2,
+    "narrative_weight": "scale_arc",
+    "description": "Barcelona's AI research scene and rapid public digital adoption make Spain one of Europe's fastest-rising AI economies.",
+    "eras": [
+      {
+        "era": "Industry 1.0",
+        "year_range": "1760–1840",
+        "ai_stage": "Colonial Decline & Late Industrialization",
+        "key_events": [
+          "Spain loses colonial empire — economic disruption slows industrial development",
+          "Catalonia begins textile industrialization, lagging behind UK and France"
+        ],
+        "impact_level": "Low",
+        "impact_score": 1
+      },
+      {
+        "era": "Industry 2.0",
+        "year_range": "1870–1940",
+        "ai_stage": "Mining & Regional Industrialization",
+        "key_events": [
+          "Basque Country and Catalonia build heavy industry",
+          "Spanish Civil War (1936–39) devastates industrial capacity",
+          "Telefónica founded (1924) — future digital giant"
+        ],
+        "impact_level": "Low",
+        "impact_score": 2
+      },
+      {
+        "era": "Industry 3.0",
+        "year_range": "1950–1990",
+        "ai_stage": "Post-Franco Tech Modernization",
+        "key_events": [
+          "Spain joins EU (1986) — economic modernization accelerates",
+          "Polytechnic University of Catalonia builds strong engineering programs",
+          "Telefónica becomes major European telecom player"
+        ],
+        "impact_level": "Medium",
+        "impact_score": 2
+      },
+      {
+        "era": "Industry 4.0",
+        "year_range": "2000–present",
+        "ai_stage": "Smart Cities & AI Adoption Leader",
+        "key_events": [
+          "Barcelona Smart City initiative — global model for AI in urban planning",
+          "Spain ranks among top EU countries in government AI adoption (2025)",
+          "Spanish National AI Strategy (ENIA 2021) — €600M investment",
+          "Telefónica AI lab and BBVA AI banking transformation lead corporate adoption"
+        ],
+        "impact_level": "High",
+        "impact_score": 3
+      }
+    ]
+  },
+  {
+    "country": "Nigeria",
+    "code": "NG",
+    "coordinates": [9.08, 8.67],
+    "layer": 3,
+    "narrative_weight": "leapfrog_arc",
+    "description": "Africa's largest economy and tech hub — Lagos is emerging as Africa's Silicon Valley with a young, mobile-first AI generation.",
+    "eras": [
+      {
+        "era": "Industry 1.0",
+        "year_range": "1760–1840",
+        "ai_stage": "Pre-Colonial & Slave Trade Economy",
+        "key_events": [
+          "Transatlantic slave trade devastates West African economies",
+          "Pre-colonial kingdoms — Benin, Oyo — have no industrial base"
+        ],
+        "impact_level": "Very Low",
+        "impact_score": 1
+      },
+      {
+        "era": "Industry 2.0",
+        "year_range": "1870–1940",
+        "ai_stage": "British Colonial Resource Extraction",
+        "key_events": [
+          "Nigeria colonized by Britain — oil palm, cocoa, and groundnut exports",
+          "Lagos becomes administrative and trade hub",
+          "University of Ibadan founded (1948) — first Nigerian university"
+        ],
+        "impact_level": "Very Low",
+        "impact_score": 1
+      },
+      {
+        "era": "Industry 3.0",
+        "year_range": "1950–1990",
+        "ai_stage": "Oil Economy & Early Tech",
+        "key_events": [
+          "Nigeria independence (1960) — oil boom funds early institutions",
+          "University of Lagos and Obafemi Awolowo University build CS programs",
+          "Oil dominance delays diversification into tech"
+        ],
+        "impact_level": "Low",
+        "impact_score": 1
+      },
+      {
+        "era": "Industry 4.0",
+        "year_range": "2000–present",
+        "ai_stage": "Africa's Silicon Lagoon Rising",
+        "key_events": [
+          "Lagos 'Silicon Lagoon' — Africa's largest tech startup ecosystem",
+          "Flutterwave, Paystack, Andela — AI-powered fintech unicorns born in Nigeria",
+          "National AI Strategy adopted (August 2024)",
+          "Nigeria produces more developers than any other African nation; mobile-first AI adoption"
+        ],
+        "impact_level": "Medium",
+        "impact_score": 2
+      }
+    ]
+  },
+  {
+    "country": "Mexico",
+    "code": "MX",
+    "coordinates": [23.63, -102.55],
+    "layer": 3,
+    "narrative_weight": "leapfrog_arc",
+    "description": "Near-shoring boom and young demographic dividend — Mexico is becoming a critical node in North American AI supply chains.",
+    "eras": [
+      {
+        "era": "Industry 1.0",
+        "year_range": "1760–1840",
+        "ai_stage": "Colonial Mining Economy",
+        "key_events": [
+          "New Spain — massive silver mining economy under colonial rule",
+          "Independence (1821) leaves industrial base fragmented"
+        ],
+        "impact_level": "Very Low",
+        "impact_score": 1
+      },
+      {
+        "era": "Industry 2.0",
+        "year_range": "1870–1940",
+        "ai_stage": "Porfiriato — Foreign-Led Industrialization",
+        "key_events": [
+          "Porfirio Díaz opens Mexico to foreign industrial investment",
+          "Railways and oil industry developed primarily by US and UK capital",
+          "UNAM (National Autonomous University) founded (1910)"
+        ],
+        "impact_level": "Low",
+        "impact_score": 2
+      },
+      {
+        "era": "Industry 3.0",
+        "year_range": "1950–1990",
+        "ai_stage": "Maquiladora & Technology Transfer",
+        "key_events": [
+          "NAFTA precursors — US companies set up maquiladora factories",
+          "Tecnológico de Monterrey (ITESM) founded — top Latin American tech university",
+          "Mexico City tech scene emerges but limited by political instability"
+        ],
+        "impact_level": "Medium",
+        "impact_score": 2
+      },
+      {
+        "era": "Industry 4.0",
+        "year_range": "2000–present",
+        "ai_stage": "Near-Shoring Hub & AI Strategy",
+        "key_events": [
+          "US-Mexico near-shoring boom — AI and tech firms relocate R&D to Mexico",
+          "Guadalajara 'Silicon Valley of Mexico' — Intel, IBM, Oracle tech hubs",
+          "National AI Strategy launched (2018)",
+          "Mexico AI hiring grows as digital talent pipeline expands; LatAm-GPT consortium participant"
+        ],
+        "impact_level": "Medium",
+        "impact_score": 2
+      }
+    ]
+  },
+  {
+    "country": "Indonesia",
+    "code": "ID",
+    "coordinates": [-0.78, 113.92],
+    "layer": 3,
+    "narrative_weight": "leapfrog_arc",
+    "description": "Southeast Asia's biggest economy — 280 million people, world's 4th largest population, and a growing AI ecosystem built on mobile-first internet.",
+    "eras": [
+      {
+        "era": "Industry 1.0",
+        "year_range": "1760–1840",
+        "ai_stage": "Dutch Colonial Spice Economy",
+        "key_events": [
+          "Dutch East Indies — plantation and spice extraction economy",
+          "No industrial development beyond colonial infrastructure"
+        ],
+        "impact_level": "Very Low",
+        "impact_score": 1
+      },
+      {
+        "era": "Industry 2.0",
+        "year_range": "1870–1940",
+        "ai_stage": "Colonial Export Economy",
+        "key_events": [
+          "Dutch develop sugar, rubber, and oil palm industries for export",
+          "Limited industrialization; Batavia (Jakarta) as colonial administrative hub"
+        ],
+        "impact_level": "Very Low",
+        "impact_score": 1
+      },
+      {
+        "era": "Industry 3.0",
+        "year_range": "1950–1990",
+        "ai_stage": "Independence & State Industrialization",
+        "key_events": [
+          "Indonesia independence (1945) — Sukarno, then Suharto drive state-led industry",
+          "ITB (Institut Teknologi Bandung) founded — top engineering university",
+          "Limited computing education; manufacturing focus"
+        ],
+        "impact_level": "Low",
+        "impact_score": 1
+      },
+      {
+        "era": "Industry 4.0",
+        "year_range": "2000–present",
+        "ai_stage": "Mobile-First Digital Giant",
+        "key_events": [
+          "GoTo (Gojek + Tokopedia), Traveloka — Southeast Asia's largest AI-powered super apps",
+          "Indonesia 4th-largest internet user base globally — massive training data potential",
+          "National AI Strategy (Making Indonesia 4.0) launched (2018)",
+          "Government targets top-10 global AI economy status by 2045"
+        ],
+        "impact_level": "Medium",
+        "impact_score": 2
+      }
+    ]
+  }
+]
